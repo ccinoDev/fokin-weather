@@ -1,0 +1,32 @@
+{
+  "files": {
+    "app.js": "/fokin-weather/static/js/app.ac7a5131.chunk.js",
+    "app.js.map": "/fokin-weather/static/js/app.ac7a5131.chunk.js.map",
+    "runtime~app.js": "/fokin-weather/static/js/runtime~app.96a99b0c.js",
+    "runtime~app.js.map": "/fokin-weather/static/js/runtime~app.96a99b0c.js.map",
+    "static/js/2.336da2a3.chunk.js": "/fokin-weather/static/js/2.336da2a3.chunk.js",
+    "static/js/2.336da2a3.chunk.js.map": "/fokin-weather/static/js/2.336da2a3.chunk.js.map",
+    "fonts/AntDesign.ttf": "/fokin-weather/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/fokin-weather/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/fokin-weather/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/fokin-weather/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/fokin-weather/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/fokin-weather/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Foundation.ttf": "/fokin-weather/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/fokin-weather/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/fokin-weather/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/fokin-weather/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/fokin-weather/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/fokin-weather/favicon-16.png",
+    "favicon-32.png": "/fokin-weather/favicon-32.png",
+    "favicon.ico": "/fokin-weather/favicon.ico",
+    "index.html": "/fokin-weather/index.html",
+    "manifest.json": "/fokin-weather/manifest.json",
+    "serve.json": "/fokin-weather/serve.json"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.96a99b0c.js",
+    "static/js/2.336da2a3.chunk.js",
+    "static/js/app.ac7a5131.chunk.js"
+  ]
+}
